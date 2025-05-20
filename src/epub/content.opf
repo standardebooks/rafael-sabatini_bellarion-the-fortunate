@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rafael-sabatini/bellarion-the-fortunate</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-05-20T16:14:11Z</dc:date>
+		<meta property="dcterms:modified">2025-05-20T16:14:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,17 +33,17 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An orphan discovers his talents in intrigue, romance and war in fifteenth-century Italy.</dc:description>
+		<dc:description id="description">An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Bellarion, a young orphan, leaves the abbey he was raised in to go to university and learn Greek. He quickly learns the dangers of life in fifteenth-century Italy, as he is robbed, caught in a riot, and chased through town by the authorities. He tangles himself in a plot against the local regent, plays one side against the other, and declares his service to the beautiful but uninterested Valeria.&lt;/p&gt;
-			&lt;p&gt;Despite Bellarion’s repeated intent to give up the pleasures of the world, he becomes adopted by a noble condottiere, learns the practical side of war, and dodges beautiful women who are fascinated by him. He becomes a leader of a mercenary company, using his cunning and his knowledge of warfare to outsmart his rivals and enemies.&lt;/p&gt;
+			&lt;p&gt;Bellarion, a young orphan, leaves the abbey he was raised in to attend university and learn Greek. He quickly learns the dangers of life in fifteenth-century Italy, as he is robbed, caught in a riot, and chased through town by the authorities. He tangles himself in a plot against the local regent, plays one side against the other, and declares his service to the beautiful but uninterested Valeria.&lt;/p&gt;
+			&lt;p&gt;Despite Bellarion’s repeated attempts to give up the pleasures of the world, he is adopted by a noble condottiere, learns the practical side of war, and dodges beautiful women helplessly attracted by his magnetism. And as if that weren’t enough, he goes on to become the leader of a mercenary company, using his cunning and knowledge of warfare to outsmart his enemies.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/rafael-sabatini"&gt;Sabatini&lt;/a&gt; is famous for his historical novels, and his tight plotting, sharp dialogue, and unexpected twists make this a thrilling read. Many of the characters are based on historical figures, and Sabatini skillfully mixes fiction with historical fact.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68411</dc:source>
 		<dc:source>https://archive.org/details/bellarionfortuna00saba</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">142337</meta>
+		<meta property="se:reading-ease.flesch">72.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bellarion_the_Fortunate</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rafael-sabatini_bellarion-the-fortunate</meta>
 		<dc:creator id="author">Rafael Sabatini</dc:creator>
@@ -69,6 +69,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
