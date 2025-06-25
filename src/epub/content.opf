@@ -49,12 +49,12 @@
 		<dc:creator id="author">Rafael Sabatini</dc:creator>
 		<meta property="file-as" refines="#author">Sabatini, Rafael</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rafael_Sabatini</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50016255</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50016255</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">John William Waterhouse</dc:contributor>
 		<meta property="file-as" refines="#artist">Waterhouse, John William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_William_Waterhouse</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n79044158</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79044158</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
