@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68411</dc:source>
 		<dc:source>https://archive.org/details/bellarionfortuna00saba</dc:source>
-		<meta property="se:word-count">142337</meta>
+		<meta property="se:word-count">140994</meta>
 		<meta property="se:reading-ease.flesch">72.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bellarion_the_Fortunate</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rafael-sabatini_bellarion-the-fortunate</meta>
