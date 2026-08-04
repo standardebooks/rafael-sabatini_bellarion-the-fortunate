@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.</dc:abstract>
+		<meta property="schema:abstract">An orphan develops his talents in intrigue, romance, and war in fifteenth-century Italy.</meta>
 		<dc:description>
 			&lt;p&gt;Bellarion, a young orphan, leaves the abbey he was raised in to attend university and learn Greek. He quickly learns the dangers of life in fifteenth-century Italy, as he is robbed, caught in a riot, and chased through town by the authorities. He tangles himself in a plot against the local regent, plays one side against the other, and declares his service to the beautiful but uninterested Valeria.&lt;/p&gt;
 			&lt;p&gt;Despite Bellarion’s repeated attempts to give up the pleasures of the world, he is adopted by a noble condottiere, learns the practical side of war, and dodges beautiful women helplessly attracted by his magnetism. And as if that weren’t enough, he goes on to become the leader of a mercenary company, using his cunning and knowledge of warfare to outsmart his enemies.&lt;/p&gt;
